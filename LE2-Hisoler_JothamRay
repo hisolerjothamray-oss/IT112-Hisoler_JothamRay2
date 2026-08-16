@@ -11,7 +11,7 @@ int main()
     printf("*                                         *\n");
     printf("*         Create | Play | Explore         *\n");
     printf("*                                         *\n");
-    printf("*********************************************");
+    printf("*******************************************\n");
     
     return 0;
 }
