@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("*******************************************\n");
+    printf("*                                         *\n");
+    printf("*         COMPUTER PROGRAMMING 1          *\n");
+    printf("*                                         *\n");
+    printf("*          YOUR CODING JOURNEY            *\n");
+    printf("*               START HERE                *\n");
+    printf("*                                         *\n");
+    printf("*         Create | Play | Explore         *\n");
+    printf("*                                         *\n");
+    printf("*********************************************");
+    
+    return 0;
+}
