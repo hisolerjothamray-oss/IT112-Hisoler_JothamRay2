@@ -1,16 +1,1 @@
-#include <stdio.h>
 
-int main() 
-{ 
-printf("=================================\n"); 
-printf(" STUDENT PROFILE\n");
-printf("=================================\n"); 
-printf("Name: Jotham Ray J. Hisoler\n");
-printf("Course and section BSIT-1r13\n");
-printf("Year Level: 1st year\n");
-printf("=================================\n");
-printf(" GAME DEVELOPER\n"); 
-printf("=================================\n");
-
-return 0;
-}
