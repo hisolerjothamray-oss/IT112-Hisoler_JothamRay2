@@ -1,0 +1,21 @@
+include <stdio.h>
+
+int main() {
+    char name[] ="Jotham Ray Hisoler";
+    char section[] ="BSIT - 1R13";
+    
+    float num1 = 30;
+    float num2 = 10;
+    
+    printf("Student Calculator\n");
+    printf("Student Name: Jotham Ray Hisoler\n");
+    printf("Section: BSIT - 1R13\n");
+    printf("results:\n");
+    printf("%.0f + %.0f = %.0f\n", num1, num2, num1 + num2);
+    printf("%.0f - %.0f = %.0f\n", num1, num2, num1 - num2);
+    printf("%.0f * %.0f = %.0f\n", num1, num2, num1 * num2);
+    printf("%.0f / %.0f = %.0f\n", num1, num2, num1 / num2);
+   
+   return 0;
+}
+    
