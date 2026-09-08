@@ -7,9 +7,9 @@ int main() {
     float average;
 
     printf("Enter Complete Name: ");
-    scanf("%[^\n]", name);
+    scanf("%d", name);
     printf("Enter Section : ");
-    scanf("%[^\n]", section);
+    scanf("%d", section);
 
     printf("\nEnter 1st Quarter Grade: ");
     scanf("%f", &grade1);
@@ -43,4 +43,3 @@ int main() {
     }
     
      return 0;
-}
